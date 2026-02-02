@@ -1,12 +1,19 @@
-This repository contains my practice projects in:
+# Excel & Power Query Portfolio
+
+This repository contains my practical projects in:
 - Microsoft Excel
 - Pivot Tables & Slicers
-- Power Query (Data Cleaning & Transformation)
-- Basic Data Analysis
+- Power Query (ETL & Data Cleaning)
+- Sales & Profit Analysis Dashboards
 
-## Projects
-- Sales Dashboard using Pivot Tables
-- Power Query Data Cleaning
-- Profit Analysis by Country & Model
+## Tools Used
+- Excel 2021+
+- Power Query
+- Pivot Tables
+- Slicers & Timelines
 
-I am building these projects as part of my journey to become a Data Analyst.
+## Purpose
+These projects demonstrate my ability to clean, analyze, and present data
+in a business-friendly and interactive way.
+
+I am open to freelance and remote opportunities.
